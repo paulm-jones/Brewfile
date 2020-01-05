@@ -206,6 +206,27 @@
             }
           }
         }
+      },
+      "hugo": {
+        "version": "0.62.0",
+        "bottle": {
+          "cellar": ":any_skip_relocation",
+          "prefix": "/usr/local",
+          "files": {
+            "catalina": {
+              "url": "https://homebrew.bintray.com/bottles/hugo-0.62.0.catalina.bottle.tar.gz",
+              "sha256": "762a5e25d5da7295c76143a0616096b264d2c2b1e68b30d69c57cb4045ce68b5"
+            },
+            "mojave": {
+              "url": "https://homebrew.bintray.com/bottles/hugo-0.62.0.mojave.bottle.tar.gz",
+              "sha256": "2b17e44228ad1e8bf7bdc9f2b399bdfd048983287d771f6edf6911864d9b30fb"
+            },
+            "high_sierra": {
+              "url": "https://homebrew.bintray.com/bottles/hugo-0.62.0.high_sierra.bottle.tar.gz",
+              "sha256": "e94d37b20c3c115f7bfade332502f7cf6a79fa7a3d27d8c78bc2acef5182f61c"
+            }
+          }
+        }
       }
     }
   },
